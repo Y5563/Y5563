@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Y5563
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning  python programming language
-- 💞️ I’m looking to collaborate on how I can become a better hacker
+- 👋 Hi, I’m Script
+- 👀 I’m a Web Developer
+- 🌱 I love javascript
+- 💞️ I’m looking to collaborate with more people that will help me learn more about the dev world and add value to my life.
 - 📫 How to reach me on Gmail script.robot.me@gmail.com and also on telegram https://t.me/M_script
 
 <!---
